@@ -8,6 +8,8 @@ This code is a practical guide to leveraging the Testify toolkit for mocking.
 
 ➡️ Watch the video: Mocking in Golang with Testify: A Practical Refactoring Guide
 
+[![Testify Mocking: A Refactoring Guide for Golang](https://img.youtube.com/vi/k9G-b-_D7HA/0.jpg)](https://www.youtube.com/watch?v=k9G-b-_D7HA)
+
 ## 💡 What This Code Demonstrates
   - Testify Mocking: Learn how to install and integrate Testify's mocking package into your Go project.
   - Concise Tests: See how framework-based mocks reduce boilerplate and make test assertions more readable.
@@ -30,7 +32,7 @@ go test ./...
 🔗 Context & Foundational Videos
 This video is a direct follow-up to our series on building test doubles from scratch. If you missed the foundation, watch the series to understand the "why" behind Test Doubles:
 
-➡️ Watch the full Golang Test Doubles [playlist here}(https://www.youtube.com/playlist?list=PLtFquUj7IL8UryMFayUKJ0Z03ai9kOkCV)! 
+➡️ Watch the full Golang Test Doubles [playlist here](https://www.youtube.com/playlist?list=PLtFquUj7IL8UryMFayUKJ0Z03ai9kOkCV)! 
 
 ## About The Engineering Coach
 The Engineering Coach is a YouTube channel dedicated to helping software engineers and engineering managers improve their skills and craft. We provide practical advice and tutorials on topics that matter in the real world of software development.
